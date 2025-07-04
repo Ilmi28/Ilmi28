@@ -38,15 +38,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ilmi28&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilmi28&layout=compact&theme=radical">
-</p>
-
----
-
 ### ☕ Fun Fact
 
 I like writing code that just works — clean, tested, and ready for production.
