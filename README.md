@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I'm Ilmi</h1>
-<h3 align="center">.NET Backend Developer | React Enthusiast</h3>
+<h3 align="center">.NET Backend Developer</h3>
 
 ---
 
 ### 🧠 About Me
 
-- 💻 I build web apps using **.NET (C#)** on the backend and **React** on the frontend  
+- 💻 I build web apps using **.NET (C#)** on the backend
 - ⚙️ Focused on clean code, scalability, and good architecture  
 - 🌐 I enjoy full-stack projects with **REST APIs**, **SQL**, and **cloud** deployment  
 - 🎯 Currently exploring **Azure**, **Docker**, and advanced backend patterns  
@@ -21,7 +21,6 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 **Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
