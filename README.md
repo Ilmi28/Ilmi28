@@ -9,7 +9,6 @@
 - ⚙️ Focused on clean code, scalability, and good architecture  
 - 🌐 I enjoy full-stack projects with **REST APIs**, **SQL**, and **cloud** deployment  
 - 🎯 Currently exploring **Azure**, **Docker**, and advanced backend patterns  
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ilmi-aliev/)
 
 ---
 
