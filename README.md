@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi, I'm Ilmi</h1>
 <h3 align="center">.NET Backend Developer | React Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ilmi28&label=Views&color=blue&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ### 🧠 About Me
